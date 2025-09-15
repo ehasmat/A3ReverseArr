@@ -1,12 +1,12 @@
 #pragma once 
 #include <iostream>
 
-// github breaking
+
 
 template <typename T>
 void reverse_array(T arr[], std::size_t n) {
     if (n == 0) {
-    return;      //empty array (nothing to revers)
+    return;      //empty array (nothing to reverse)
     }
     
     std::size_t i = 0;
