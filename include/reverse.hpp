@@ -11,4 +11,4 @@ template <typename T>
 void print_array (const T arr[], std::size_t n);
 
 template <typename T>
-void reverse_array(const T arr[], std::size_t n);
+void reverse_array(T arr[], std::size_t n);
