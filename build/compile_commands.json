@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/ehas/A3Reverse/build",
+  "command": "/usr/bin/g++  -I/home/ehas/A3Reverse/include -g -std=gnu++17 -o CMakeFiles/main.dir/src/main.cpp.o -c /home/ehas/A3Reverse/src/main.cpp",
+  "file": "/home/ehas/A3Reverse/src/main.cpp",
+  "output": "CMakeFiles/main.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/ehas/A3Reverse/build",
+  "command": "/usr/bin/g++  -I/home/ehas/A3Reverse/include -g -std=gnu++17 -o CMakeFiles/my_test.dir/tests/test.cpp.o -c /home/ehas/A3Reverse/tests/test.cpp",
+  "file": "/home/ehas/A3Reverse/tests/test.cpp",
+  "output": "CMakeFiles/my_test.dir/tests/test.cpp.o"
+}
+]
